@@ -84,6 +84,9 @@ button:hover{
     
 }
 @media (max-width: 375px){
+    body{
+        overflow: auto;
+    }
     .container{
         margin-left: 0px;
         margin-right: 0px;
